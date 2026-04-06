@@ -69,16 +69,6 @@ private int howFarFromBase(int year, int month) {
 
 In this project, I use [`VerticalViewPager-1`](VerticalViewPager-1) for just vertical view pager. And I refer to ['SimpleInfiniteCarousel'](SimpleInfiniteCarousel) to make a simple infinite carousel with ViewPager on Android.
 
-#### Sorry
-I am not good at english. please let me know the misspelled comments in my code.^^;
-
-
-
-## 세로 스크롤 달력 프로토타입 안드로이드 예제
-
-이 저장소는 안드로이드에서 세로 스크롤이 가능한 달력을 만들기 위해 만든 목업샘플입니다.
-관련 내용을 제 블로그에서 더 확인하실 수 있습니다. [한수댁 작업실](http://blog.hansune.com/595)
-
 
 
 
